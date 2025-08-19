@@ -17,5 +17,6 @@ This project demonstrates how I used SQL to query system logs, apply filters, an
 
 - Structured Query Language (SQL)
 
+## steps 
 
  [Applying filters to SQL queries.docx](https://github.com/user-attachments/files/21858378/Applying.filters.to.SQL.queries.docx)
